@@ -1,0 +1,1 @@
+./tr00 sample num_chains=4 data file=data.json num_threads=4

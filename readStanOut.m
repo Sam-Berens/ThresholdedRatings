@@ -34,8 +34,8 @@ thetaHat = [...
     stanOut.theta_7];
 
 %%
-rng(0);
-theta = randn(K,1);
+rng(1);
+theta = randn(7,1);
 figure;
 scatter(theta,mean(thetaHat)');
 

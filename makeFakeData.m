@@ -1,6 +1,6 @@
 
-rng(0);
-N = 27;
+rng(1);
+N = 270;
 K = 7;
 
 theta = randn(K,1);
